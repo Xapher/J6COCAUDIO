@@ -32,3 +32,9 @@ body {
 	margin-left: 50px;
 	font-size: 60px;
 }
+
+html {
+	background-image: url(background.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
