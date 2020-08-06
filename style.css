@@ -12,6 +12,8 @@ body {
 }
 #sermonName {
 	font-size: 40px;
+	-webkit-text-stroke: 0.5px white;
+	font-weight: bold;
 	padding-left: 20px;
 }
 
